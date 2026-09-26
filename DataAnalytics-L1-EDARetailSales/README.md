@@ -3,7 +3,7 @@
 **Track:** Data Analytics  
 **Program:** Oasis Infobyte Summer Internship Program (OIB-SIP)  
 **Task:** Level 1 — Task 1  
-**Author:** David Eléazar ADJA
+**Author:** ADJA Mambo David Eléazar
 
 ## Objective
 
